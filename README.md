@@ -1,3 +1,5 @@
+![Cybersecurity Threat Detection](assets/cyber-security-poster.png)
+
 # Deep Learning for Cybersecurity Threat Detection with PyTorch
 
 An end-to-end deep learning project for cybersecurity threat detection using the BETH dataset. This repository provides a complete, step-by-step guide from initial data analysis to building, training, and evaluating a neural network for host-based event classification.
